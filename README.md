@@ -100,18 +100,11 @@ BodhVerse/
 │      ├── icons/     # Icons if needed
 │── README.md
 
-📸 Screenshots
 
-(Add your project screenshots here)
-
-![Hero Section](assets/images/hero.png)
-![Map Section](assets/images/map.png)
-![Login Page](assets/images/login.png)
-![Dashboard](assets/images/dashboard.png)
 
 📚 How to Run the Project
 # Clone this repository
-git clone https://github.com/yourusername/bodhverse.git
+git clone https://github.com/abhinavkumar2023singapore-source/bodhverse.git
 
 # Open the project
 cd bodhverse
